@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="916f6e0a-003f-4678-9a1f-3ebed3ce8c3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aobghdvXVpHmGzghdcu0QamXQC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DataNilai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataNilai" />
+      <module name="ModulPraktikum2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DataNilai" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="916f6e0a-003f-4678-9a1f-3ebed3ce8c3f" name="Default Changelist" comment="" />
+      <created>1587405008425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587405008425</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="89" width="384" height="629" key="#com.intellij.ide.util.MemberChooser" timestamp="1587405237501">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="491" y="89" width="384" height="629" key="#com.intellij.ide.util.MemberChooser/0.31.1366.737@0.31.1366.737" timestamp="1587405237501" />
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1587440692275">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1587440692275" />
+    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1587440692274">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="174" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1587440692274" />
+    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1587440692273">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="174" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1587440692273" />
+    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1587440692274">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="174" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1587440692274" />
+    <state x="343" y="227" key="com.intellij.ide.util.TipDialog" timestamp="1587439559774">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="343" y="227" key="com.intellij.ide.util.TipDialog/0.31.1366.737@0.31.1366.737" timestamp="1587439559774" />
+    <state x="342" y="177" key="run.anything.popup" timestamp="1587407023224">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="342" y="177" key="run.anything.popup/0.31.1366.737@0.31.1366.737" timestamp="1587407023224" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1587407578494">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.31.1366.737@0.31.1366.737" timestamp="1587407578494" />
+  </component>
+</project>
